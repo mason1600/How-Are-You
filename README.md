@@ -1,4 +1,7 @@
-The Inspiration Behind This Work was my wife had 3 teeth pulled and couldnt talk very well so i had this idea!
-I then had another idea to add a bunch of comments in the .sh script it self to help others that might be struggling with bash.
-Also a side note the script it self also works in termux of course so she could take the quiz/report on my cell phone any where any time.
-I hope this script along with comments can help you also learn things that can help you or someone else.
+The Inspiration Behind This Work Was My Wife Had 3 Teeth Pulled And Couldn't Talk Very Well So I Had This Idea!
+
+I Then Had Another Idea To Add A Bunch Of Comments In The .sh Script It Self To Help Others That Might Be Struggling With Bash.
+
+Also A Side Note The Script It Self Also Works In Termux Of Course So She Could Take The Quiz/Report On My Cell Phone Any Where Any Time.
+
+I Hope This Script Along With Comments Can Help You Also Learn Things That Can Help You Or Someone Else.
