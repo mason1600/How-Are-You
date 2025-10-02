@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# The script May.sh was created by mason1600 on GitHub released with the license GNU General Public License v3.0
 #set -e tells the shell to close on error and not finish executing code very useful 
 set -e
 
